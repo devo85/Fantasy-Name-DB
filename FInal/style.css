@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  display: inline-block;
+  background-color: rgb(39, 212, 236);
+}
+
+form, h1, h2{
+  font-size: 30px;
+  text-align: inherit;
+  width: 50%;
+  display: inline-block;
+}
+
+.temp {
+  float: right;
+}
